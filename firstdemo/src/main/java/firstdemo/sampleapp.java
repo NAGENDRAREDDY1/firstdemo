@@ -15,6 +15,9 @@ public class sampleapp {
 	
     public void print() {
     	System.out.println("Print All Array number:");
+    	for(int i=0;i<100;i++)
+    	System.out.println("Print i"+i);
+    		
     	display();
     }
 
